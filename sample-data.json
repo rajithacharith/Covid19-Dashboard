@@ -1,0 +1,32 @@
+[
+    {
+        "ID":"4f8ec0a8-9c59-4d80-bcf5-a3f5ebb9cfa9",
+        "Country":"Sri Lanka",
+        "CountryCode":"LK",
+        "Province":"",
+        "City":"",
+        "CityCode":"",
+        "Lat":"7.87",
+        "Lon":"80.77",
+        "Confirmed":248050,
+        "Deaths":2814,
+        "Recovered":212825,
+        "Active":32411,
+        "Date":"2021-06-25T00:00:00Z"
+        },
+        {
+        "ID":"9a4d7ba5-f258-4820-8120-565ca1e75820",
+        "Country":"Sri Lanka",
+        "CountryCode":"LK",
+        "Province":"",
+        "City":"",
+        "CityCode":"",
+        "Lat":"7.87",
+        "Lon":"80.77",
+        "Confirmed":249926,
+        "Deaths":2862,
+        "Recovered":214668,
+        "Active":32396,
+        "Date":"2021-06-26T00:00:00Z"
+        }
+]
